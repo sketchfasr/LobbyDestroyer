@@ -13,7 +13,11 @@ Jail player
 
 Crash lobby
 
-Freeze hosts and disable meeting/report
+Freeze host and disable meeting/report
+
+soft lock lobby
+
+disable meeting ending
 
 Sabotage all+Pins all doors
 
