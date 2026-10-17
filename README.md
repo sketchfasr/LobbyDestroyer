@@ -7,6 +7,8 @@ Ban any player
 
 Ban host in-game( yes, for real)
 
+Ban player from game
+
 Randomtp players
 
 Jail player
