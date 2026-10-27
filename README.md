@@ -25,9 +25,12 @@ Sabotage all+Pins all doors
 
 disconnect all( private version)
 
-freeze any player( non host, private version)
+freeze any player( private version)
 
-Make everyone immortal( Non host)
+Make everyone immortal
 
 and more!
+
+
+(Note that all of these are non host features except ban player from game)
 
