@@ -23,5 +23,11 @@ disable meeting ending
 
 Sabotage all+Pins all doors
 
+disconnect all( private version)
+
+freeze any player( non host, private version)
+
+Make everyone immortal( Non host)
+
 and more!
 
